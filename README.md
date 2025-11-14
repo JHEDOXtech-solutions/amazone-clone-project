@@ -29,17 +29,16 @@ It includes a custom navbar, hero section, product boxes, interactive JS feature
 
 ---
 
-## 🖼️ Project Preview
+## Project Preview
 
-![Amazon Clone Preview](file:///C:/Users/j/Desktop/practice%20session%20on%20C/amazonclone.html)
+![Amazon Clone Preview](https://youtu.be/VTVN0t3ul94?si=jym5zYSUvhnHyJ21)
 
 ---
 
 ## 🚀 Live Demo
 
-🔗 [View Live Project](https://<your-github-username>.github.io/amazon-clone/)
+🔗 [View Live Project](https://github.com/JHEDOXtech-solutions/amazone-clone-project.git)
 
-(Replace `<your-github-username>` with your actual GitHub username)
 
 ---
 
