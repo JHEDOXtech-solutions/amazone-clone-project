@@ -31,7 +31,7 @@ It includes a custom navbar, hero section, product boxes, interactive JS feature
 
 ## Project Preview
 
-![Amazon Clone Preview](https://youtu.be/VTVN0t3ul94?si=jym5zYSUvhnHyJ21)
+![Amazon Clone Preview](https://youtu.be/VTVN0t3ul94?si=ZHRtx53wOhysnjp5)
 
 ---
 
